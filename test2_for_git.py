@@ -1,1 +1,1 @@
-print('lolo')
+print('lolo', 'summer')
